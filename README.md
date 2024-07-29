@@ -1,4 +1,5 @@
-*TRABALHO PRÁTICO 04*
+# LP1-Java
+## TRABALHO PRÁTICO 04
 
-Érica Barbosa 
-Julia de Lemos 
+@Autor:
+Érica Barbosa e Julia de Lemos 
