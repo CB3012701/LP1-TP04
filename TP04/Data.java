@@ -1,6 +1,6 @@
 
 /**
-*@Érica Barbosa e Julia de Lemos 
+*Érica Barbosa e Julia de Lemos 
 */
 
 import java.util.Scanner;
